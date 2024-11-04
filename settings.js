@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==ANrh2Toh1VZJXTZ1SRDJ0QVFUOvJlU4x0YSBFV6NXTXxkVppHaygma69FTjQkSDxWVjJVUpwd=98891365672',
+  SESSION_ID: 'QUEENELISA;;;==QTRtGeFd2bwEDc5E1X2cFNoRUeM1CZB91XUdVa1V1XPRXRlRVeNJWYsVjajkUeKFVajJkTpwd=75045153772',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello 😊👋@name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hey there😊👋@name And @gname @members Number of Members,I am QueenElisa and Alive Now!*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -26,11 +26,11 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'Tristan',
   OWNER_NUMBER: '27634624586',
-  SUDO: '27656319889',
+  SUDO: '27735154057',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
+  CAPTION: '*',
   STICKER_AUTHOR: 'Tristan®',
   STICKER_PACK: 'TRISTAN-BOT',
   REMOVE_BG_APIKEY: '',
@@ -38,14 +38,14 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_R_EMOJI: '✨',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
-  INBOX_BLOCK: false,
+  INBOX_BLOCK: true,
   OWNER_REACT: true,
   AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
-  AUTO_SEEN_STATUS: false,
+  AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
   READ_MESSAGE: false,
-  ANTI_MSG_SPAM: false,
+  ANTI_MSG_SPAM: true,
   ANTI_BAD_WORD: false,
   ANTI_VIEW_ONES: false,
   ANTI_DELETE: true,
