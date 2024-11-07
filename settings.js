@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QTRtGeFd2bwEDc5E1X2cFNoRUeM1CZB91XUdVa1V1XPRXRlRVeNJWYsVjajkUeKFVajJkTpwd=75045153772',
+  SESSION_ID: 'QUEENELISA;;;==ANqpXVBlWOOlVW1UFNI1ydnV2aYV0ViVXeKZFexRkQqhVO3VUazU0SI9ETjk1NShUV5kkSpwd=98891365672',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hey there😊👋@name And @gname @members Number of Members,I am QueenElisa and Alive Now!*
 
@@ -26,13 +26,13 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'Tristan',
   OWNER_NUMBER: '27634624586',
-  SUDO: '27735154057',
+  SUDO: '27656319889',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
   CAPTION: '*',
   STICKER_AUTHOR: 'Tristan®',
-  STICKER_PACK: 'TRISTAN-BOT',
+  STICKER_PACK: '🎀',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 900,
   OWNER_R_EMOJI: '✨',
