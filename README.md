@@ -65,6 +65,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 
 ## Deploy.
  [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTristan7122%2FQueenElisa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTristan7122%2FQueenElisa?ref=badge_shield)
   
 [![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
@@ -119,3 +120,7 @@ If you have any feedback, please reach out to us at queenelisa.bot@gmail.com
 If you need help, Join queen elisa telegram support group [t.me/queenelisasupport](t.me/queenelisasupport)
 </br></br></br>
  <p align="center"> ELISACODERS - QUEEN ELISA | 2024 </p>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTristan7122%2FQueenElisa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTristan7122%2FQueenElisa?ref=badge_large)
