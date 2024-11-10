@@ -26,7 +26,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'Tristan',
   OWNER_NUMBER: '27634624586',
-  SUDO: '27656319889',
+  SUDO: '27734887674',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Africa/Johannesburg',
@@ -64,13 +64,13 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
     ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
     BAD_DETECT_MSG: '@user Bad Words Are Disable by my Owner!',
-    BANED_MSG: "@user You Can't use bot, *You are banned by my owner,* contact:+27634624586!",
+    BANED_MSG: "@user IDiot🤬you can't use bot,*You are banned by my owner,* contact:+27634624586",
     GROUP_LEAVE: 'BYE👋 @groupName I am Going.',
     INBOX_BLOCK:
-      '❌ *you texted me without My owner(+27634624586) permission,* *So you will be auto blocked after 8 seconds😊BYE👋*'
+      '❌ *you texted me without My owner(+27634624586) permission,* *So you will be auto blocked after 8 seconds😊BYE mylove💗👋*'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add me to groups without asking my owner.\n"
+    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add me to groups without asking my owner(27634624586).\n"
 }
 
 let file = require.resolve(__filename)
